@@ -1,0 +1,3 @@
+/home/spolutrean/adventofcode/day1/default/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/spolutrean/adventofcode/day1/default/cmake-build-debug/CMakeFiles/default.dir
+/home/spolutrean/adventofcode/day1/default/cmake-build-debug/CMakeFiles/edit_cache.dir
