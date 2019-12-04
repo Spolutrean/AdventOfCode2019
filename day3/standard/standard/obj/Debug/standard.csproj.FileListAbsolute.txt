@@ -1,0 +1,5 @@
+/home/spolutrean/adventofcode2019/day3/standard/standard/bin/Debug/standard.exe
+/home/spolutrean/adventofcode2019/day3/standard/standard/bin/Debug/standard.pdb
+/home/spolutrean/adventofcode2019/day3/standard/standard/obj/Debug/standard.csprojAssemblyReference.cache
+/home/spolutrean/adventofcode2019/day3/standard/standard/obj/Debug/standard.exe
+/home/spolutrean/adventofcode2019/day3/standard/standard/obj/Debug/standard.pdb
