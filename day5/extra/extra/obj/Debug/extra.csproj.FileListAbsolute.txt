@@ -1,0 +1,5 @@
+/home/spolutrean/adventofcode2019/day5/extra/extra/bin/Debug/extra.exe
+/home/spolutrean/adventofcode2019/day5/extra/extra/bin/Debug/extra.pdb
+/home/spolutrean/adventofcode2019/day5/extra/extra/obj/Debug/extra.csprojAssemblyReference.cache
+/home/spolutrean/adventofcode2019/day5/extra/extra/obj/Debug/extra.exe
+/home/spolutrean/adventofcode2019/day5/extra/extra/obj/Debug/extra.pdb
